@@ -20,4 +20,4 @@ em ambiente real. Inclui documentação técnica formal,
 estruturação de dados coletados e diagrama SVG.
 
 ##  Contato
-galbuquerque065@gmail.com · [LinkedIn]((https://www.linkedin.com/in/gabriel-alb ))
+galbuquerque065@gmail.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alb)
